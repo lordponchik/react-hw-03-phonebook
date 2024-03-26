@@ -1,4 +1,4 @@
-import ContactItem from 'ContactItem/ContactItem';
+import ContactItem from '../ContactItem/ContactItem';
 import s from './ContactList.module.css';
 
 function ContactList({ contacts, deleteContact }) {
